@@ -14,8 +14,8 @@ Click on the **Load Unpacked Extension** button
 
 Navigate to the directory where you cloned the repository and open it.
 
-![Screenshot](https://www.github.com/fristonio/playplugin/images/ss01.jpg)
+![Screenshot](https://github.com/fristonio/playplugin/blob/master/images/ss01.png)
 
 **Playplugin is loaded and ready to go**
 
-![Screenshot](https://www.github.com/fristonio/playplugin/images/ss02.jpg)
+![Screenshot](https://github.com/fristonio/playplugin/blob/master/images/ss02.png)
