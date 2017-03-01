@@ -9,9 +9,6 @@ $("#playbtn").click(function(){
         if(e=="Forbidden"){
           alert("You got to be inside the lab to play in the lab");
         }
-        else{
-          alert("Cannot play the song .... Sorry");
-        }
       });
 });
 
