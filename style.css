@@ -1,0 +1,6 @@
+#playbtn{
+	position:fixed;
+	top: 95vh;
+	right: 0;
+	cursor: pointer;
+}

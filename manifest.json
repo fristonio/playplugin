@@ -1,0 +1,27 @@
+{
+	"manifest_version":2,
+	"name":"Play Youtube Plugin",
+	"short_name":"PlayPlugin",
+	"description":"Play plugin to directly play youtube video to play.sdslabs.co.in",
+	"version":"1.0",
+	"permissions":[
+					"activeTab",
+    				"https://ajax.googleapis.com/"
+					],
+	"browser_action":{
+						
+						"default_popup":"popup.html"
+	},
+	"content_scripts": [
+    {
+        "matches": ["https://www.youtube.com/*"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+    }
+],
+	"background": {
+	    "scripts": ["script.js","jquery.js"],
+	    "persistent": false
+  	},
+  	"content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}	
