@@ -1,10 +1,10 @@
 #playbtn{
 	position:fixed;
 	top: 95vh;
-	right: 0;
+	right: 0.5vw;
 	cursor: pointer;
-	padding: 5px;
+	padding: 8px;
 	border-radius: 2px;
-	background: #5CEE53;
+	background: #050605;
 	color: white;
 }
