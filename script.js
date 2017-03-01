@@ -1,8 +1,3 @@
-/*document.getElementsByClassName("play")[0].onclick=function(){
-      alert("yeah it worked");
-      console.log("how are yoyu0");
-  };*/
-
   $(".play").click(function(){
     chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
     var url = tabs[0].url;
@@ -22,3 +17,13 @@
     }
   }); 
   });
+  $(".voldown").click(function(){
+    $.get("https://play.sdslabs.co.in/volume/down");
+  });
+  $(".volup").click(function(){
+    $.get("https://play.sdslabs.co.in/volume/up");
+  });
+
+chrome.runtime.onMessage.addListener(function(request, sender, sendResponse){
+
+});

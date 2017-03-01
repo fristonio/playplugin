@@ -3,4 +3,8 @@
 	top: 95vh;
 	right: 0;
 	cursor: pointer;
+	padding: 5px;
+	border-radius: 2px;
+	background: #5CEE53;
+	color: white;
 }
