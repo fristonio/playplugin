@@ -8,3 +8,13 @@
 	background: #050605;
 	color: white;
 }
+#playlistbtn{
+	position:fixed;
+	top: 90vh;
+	right: 0.8vw;
+	cursor: pointer;
+	padding: 8px;
+	border-radius: 2px;
+	background: #050605;
+	color: white;
+}
