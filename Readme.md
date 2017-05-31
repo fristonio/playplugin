@@ -1,18 +1,18 @@
-#Chrome Extension For play.sdslabs.co.in
+# Chrome Extension For play.sdslabs.co.in
 ----
-##Description
+## Description
 >A chrome extension for play.sdslabs.co.in(SDSLabs internal music playing app). Simply a youtube integration for the app that allow the user to directly add songs to play queue with just a click.
 
-##How To Use :
+## How To Use :
 
 Clone the git repository to your local machine
 ```git clone https://github.com/fristonio/playplugin.git```
 
-Go to Chrome Settings and then extensions or type **chrome://extensions/** on the search bar.
+* Go to Chrome Settings and then extensions or type **chrome://extensions/** on the search bar.
 
 Click on the **Load Unpacked Extension** button
 
-Navigate to the directory where you cloned the repository and open it.
+* Navigate to the directory where you cloned the repository and open it.
 
 ![Screenshot](https://github.com/fristonio/playplugin/blob/master/images/ss01.png)
 
