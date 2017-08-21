@@ -1,28 +1,28 @@
 #playbtn {
-	position:fixed;
-	top: 95vh;
-	right: 0.5vw;
-	cursor: pointer;
-	padding: 8px;
-	border-radius: 2px;
-	background: #050605;
-	color: white;
+  position:fixed;
+  top: 95vh;
+  right: 0.5vw;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 2px;
+  background: #050605;
+  color: white;
 }
 #playlistbtn {
-	position:fixed;
-	top: 90vh;
-	right: 0.8vw;
-	cursor: pointer;
-	padding: 8px;
-	border-radius: 2px;
-	background: #050605;
-	color: white;
+  position:fixed;
+  top: 90vh;
+  right: 0.8vw;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 2px;
+  background: #050605;
+  color: white;
 }
 .instantPlay {
-	width: 15px;
-	height: 25px;
-	position: absolute;
-	right: 0;
-	bottom: 0;
-	cursor: pointer;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  cursor: pointer;
 }

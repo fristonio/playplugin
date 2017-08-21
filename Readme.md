@@ -1,6 +1,7 @@
 # Chrome Extension For play.sdslabs.co.in
-----
+
 ## Description
+
 >A chrome extension for play.sdslabs.co.in(SDSLabs internal music playing app). Simply a youtube integration for the app that allow the user to directly add songs to play queue with just a click.
 
 ## How To Use :
